@@ -1,23 +1,31 @@
-Bài 01:
-n = len(sticks)
-    max_perimeter = -1
-    for i in range(n-2):
-        for j in range(i+1, n-1):
-            for k in range(j+1, n):
-                a, b, c = sticks[i], sticks[j], sticks[k]
-                if (a + b > c and a + c > b and b + c > a):
-                    max_perimeter = max(max_perimeter, a + b + c)
-    return max_perimeter
-Bài 02:
-for i in range(len(arr)):
-        for j in range(len(brr)):
-            if arr[i] == brr[j]:
-                del brr[j]
-                break
-    brr = list(dict.fromkeys(brr))
-    brr.sort()
-    return brr
-Bài 03:
+*Hackerrank:
+    https://www.hackerrank.com/cs112-l21-g15?fbclid=IwAR0Mmj9DehA00ZtI8Bn69P761bQGEFwD30rw8uAhhh0V9LVhk2Ed-TVJ2Dc
+
+*Bài 01:
+
+    n = len(sticks)
+            max_perimeter = -1
+            for i in range(n-2):
+                for j in range(i+1, n-1):
+                    for k in range(j+1, n):
+                        a, b, c = sticks[i], sticks[j], sticks[k]
+                        if (a + b > c and a + c > b and b + c > a):
+                            max_perimeter = max(max_perimeter, a + b + c)
+            return max_perimeter
+
+*Bài 02:
+
+    for i in range(len(arr)):
+                for j in range(len(brr)):
+                    if arr[i] == brr[j]:
+                        del brr[j]
+                        break
+            brr = list(dict.fromkeys(brr))
+            brr.sort()
+            return brr
+
+*Bài 03:
+    
     count = 0
     min_ele = min(arr)
     for i in range(len(arr)):

@@ -1,0 +1,28 @@
+Bài 01:
+n = len(sticks)
+    max_perimeter = -1
+    for i in range(n-2):
+        for j in range(i+1, n-1):
+            for k in range(j+1, n):
+                a, b, c = sticks[i], sticks[j], sticks[k]
+                if (a + b > c and a + c > b and b + c > a):
+                    max_perimeter = max(max_perimeter, a + b + c)
+    return max_perimeter
+Bài 02:
+for i in range(len(arr)):
+        for j in range(len(brr)):
+            if arr[i] == brr[j]:
+                del brr[j]
+                break
+    brr = list(dict.fromkeys(brr))
+    brr.sort()
+    return brr
+Bài 03:
+    count = 0
+    min_ele = min(arr)
+    for i in range(len(arr)):
+        while arr[i] != i + min_ele:
+            swap_index = arr[i] - min_ele
+            arr[i], arr[swap_index] = arr[swap_index], arr[i]
+            count += 1
+    return count

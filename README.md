@@ -7,6 +7,7 @@
 ## Thông tin nhóm
 * STT: Nhóm 15
 * Chủ đề seminar: Giới thiệu phương pháp thiết kế thuật toán: Completed search - Brute force
+
 |**STT**|**Tên**|**MSSV**|**Gmail**|
 |:---|:---|:---|:---|
 |1|Trần Minh Đạt|19521352|19521352@gm.uit.edu.vn|

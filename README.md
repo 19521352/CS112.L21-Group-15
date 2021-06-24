@@ -23,6 +23,7 @@
  Tìm ứng viên mới cho P sau mỗi ứng viên c hiện tại
   + __valid(P, c):__ kiểm tra xem ứng viên c có phải là giải pháp của P hay không  
   + __output (P, c):__ sử dụng nghiệm c của P sao cho phù hợp với ứng dụng.  
+ 
  Các thủ tục *next* cũng phải biết khi nào không còn ứng viên nào cho giải pháp P, sau mỗi ứng viên c hiện đang xét. Một cách thuận tiện để làm điều đó là trả về một "ứng viên rỗng", một số giá trị dữ liệu thông thường Λ khác biệt với bất kỳ ứng viên thực nào. Tương tự như vậy các thủ tục *first* nên trả về Λ nếu không có ứng viên nào cho giải pháp P . Khi đó, phương pháp brute-force được biểu thị bằng thuật toán
 ```python
 c ← first(P)

@@ -4,7 +4,6 @@
 
 - Đa số các nhóm đều tham gia góp ý xây dựng bài tích cực đặt nhiều câu hỏi hay. Cùng với đó là làm bài tập về nhà trên hackerrank 
 - Bản thân nhóm nhận thấy vẫn còn thiếu sót về nội dung cũng như là slide thuyết trình
-- 
 ### Góp ý của thầy:
 
 - Về phần mã giả chưa tốt
@@ -19,7 +18,8 @@ dành cho nhóm cũng như cho các nhóm khác.
 
 ### Phần đánh giá kết quả đối với các nhóm:
   * Phần đánh giá này dựa trên kết quả của các nhóm trên hackerrank và phát biểu.
-  
+  * Tổng điểm được tính bằng: Điểm bài tập hackerrank(Tối đa 8 điểm) + Điểm phát biểu ý kiến và tra lời câu hỏi(Tối đa 2 điểm)  
+ 
 |**Tên nhóm**|**Đánh giá**|
 |:---|:---|
 |nhóm 1|9|
@@ -40,3 +40,4 @@ dành cho nhóm cũng như cho các nhóm khác.
 |nhóm 16|10|
 |nhóm 17|8.5|
 |nhóm 18|8|
+ * Link bài tập hackerrank: https://www.hackerrank.com/contests/cs112-l21-g15

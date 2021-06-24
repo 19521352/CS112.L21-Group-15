@@ -39,4 +39,4 @@ dành cho nhóm cũng như cho các nhóm khác.
 |nhóm 15|#|
 |nhóm 16|10|
 |nhóm 17|8.5|
-|nhóm 18|7|
+|nhóm 18|8|

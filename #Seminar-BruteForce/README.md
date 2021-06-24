@@ -18,7 +18,7 @@ dành cho nhóm cũng như cho các nhóm khác.
 
 ### Phần đánh giá kết quả đối với các nhóm:
   * Phần đánh giá này dựa trên kết quả của các nhóm trên hackerrank và phát biểu.
-  * Tổng điểm (Tối đa 10 điểm) = Điểm bài tập hackerrank(Tối đa 8 điểm) + Điểm phát biểu ý kiến và tra lời câu hỏi(Tối đa 2 điểm)  
+  * Tổng điểm (Tối đa 10 điểm) = Điểm bài tập hackerrank (Tối đa 8 điểm) + Điểm phát biểu ý kiến và tra lời câu hỏi (Tối đa 2 điểm)  
  
 |**Tên nhóm**|**Đánh giá**|
 |:---|:---|

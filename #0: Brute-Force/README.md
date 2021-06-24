@@ -19,6 +19,7 @@ dành cho nhóm cũng như cho các nhóm khác.
 
 ### Phần đánh giá kết quả đối với các nhóm:
   * Phần đánh giá này dựa trên kết quả của các nhóm trên hackerrank và phát biểu.
+  
 |**Tên nhóm**|**Đánh giá**|
 |:---|:---|
 |nhóm 1|9|

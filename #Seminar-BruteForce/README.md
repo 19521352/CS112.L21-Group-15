@@ -22,22 +22,22 @@ dành cho nhóm cũng như cho các nhóm khác.
  
 |**Tên nhóm**|**Đánh giá**|
 |:---|:---|
-|nhóm 1|9|
-|nhóm 2|9.5|
-|nhóm 3|8|
-|nhóm 4|10|
-|nhóm 5|10|
-|nhóm 6|10|
-|nhóm 7|9|
-|nhóm 8|9|
-|nhóm 9|9|
-|nhóm 10|10|
-|nhóm 11|9|
-|nhóm 12|9|
-|nhóm 13|9|
-|nhóm 14|9|
-|nhóm 15|#|
-|nhóm 16|10|
-|nhóm 17|8.5|
-|nhóm 18|8|
+|Nhóm 1|9|
+|Nhóm 2|9.5|
+|Nhóm 3|8|
+|Nhóm 4|10|
+|Nhóm 5|10|
+|Nhóm 6|10|
+|Nhóm 7|9|
+|Nhóm 8|9|
+|Nhóm 9|9|
+|Nhóm 10|10|
+|Nhóm 11|9|
+|Nhóm 12|9|
+|Nhóm 13|9|
+|Nhóm 14|9|
+|Nhóm 15|#|
+|Nhóm 16|10|
+|Nhóm 17|8.5|
+|Nhóm 18|8|
  * Link bài tập hackerrank: https://www.hackerrank.com/contests/cs112-l21-g15

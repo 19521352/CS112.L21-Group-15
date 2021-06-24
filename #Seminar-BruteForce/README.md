@@ -26,7 +26,7 @@ dành cho nhóm cũng như cho các nhóm khác.
 |nhóm 2|9.5|
 |nhóm 3|8|
 |nhóm 4|10|
-|nhóm 5|9|
+|nhóm 5|10|
 |nhóm 6|8.5|
 |nhóm 7|9|
 |nhóm 8|8|

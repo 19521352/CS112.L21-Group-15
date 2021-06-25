@@ -29,7 +29,7 @@ dành cho nhóm cũng như cho các nhóm khác.
 |Nhóm 5|10|
 |Nhóm 6|10|
 |Nhóm 7|9|
-|Nhóm 8|9|
+|Nhóm 8|10|
 |Nhóm 9|9|
 |Nhóm 10|10|
 |Nhóm 11|9|
